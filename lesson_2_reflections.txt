@@ -1,0 +1,7 @@
+When we initialize a new repository , it creates the .git hidden file 
+we need git repository because it helps us keep track of the files
+
+Staging area provides a helpful way to minimizing the commits and add multiple files in one commit.
+It provides an intermediate platform between a repository and working directory.
+And using reset method we can track back the file we accidentally added.
+ 
