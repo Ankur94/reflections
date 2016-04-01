@@ -1,0 +1,39 @@
+hello , how are you?
+what is your name ?
+my name is Ankur
+why are you using sublime text editor, why not notepad++ ?
+
+Using version control can make you a better programmer , how ?
+
+Ans: We can visit the older version and compare them to reflect the changes made in the file. 
+
+SAVING MANUALLY VS AUTO
+
+Manual saving (eg. git) - 
+Pros :
+Its gives you the authority , when to save the file .
+Unnecessary commits efforts are save and cluttering is avoided.
+
+Cons:
+One may miss to commit some vital functionality changes made.
+
+Auto Saving (eg. dropbox) -
+Pros :
+You will never miss the changes made to the file.
+
+Cons:
+Unnecessary cluttering of files in history , even if no significant changes are made.
+
+MULTI - FILE COMMITS
+
+Git : Its good because it gives you a complete view of the changes made and what are the affects on the whole system rather than on a single file.
+ 
+Google Docs : it may get harder to correlate the changes affecting the different files. 
+
+
+NOW as i learned how to use git diff and git log
+commands : git log
+         : git diff current_id previous_id  #remember the revert control  example
+
+
+using version control helps me out to restore the code to a given commit of my choice, this makes is very useful and interesting.
